@@ -1,4 +1,4 @@
 # Discord_bot_dogs
 Un proyecto escolar
 
-nota: creare dos archivos, keras (model) y main
+nota: Mi bot es de identificaion de razas de perros.
